@@ -56,7 +56,7 @@ To explore trends in Kickstarter campaign performance and identify what factors 
 
 ## 📂 Files Included
 - `Final_Project_Murtaza_Gohari.xlsx` – Complete dashboard and dataset with 10+ sheets
-- `kickstarter_dataset.csv` – Raw or cleaned version of dataset
+- `kickstarter_dataset.csv` – Raw version of dataset
 - `README.md` – Project summary and guide
 
 ---
